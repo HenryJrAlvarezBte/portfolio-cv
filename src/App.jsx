@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { ThemeProvider, useTheme } from './context/ThemeContext';
-import Navbar from './components/NavBar';
+import Navbar from './components/Navbar';
 import NavbarEng from './components/NavbarEng';
 import Hero from './components/Hero';
 import HeroEng from './components/HeroEng';
