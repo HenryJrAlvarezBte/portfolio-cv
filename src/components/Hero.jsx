@@ -2,10 +2,7 @@ import React from 'react';
 
 function Hero({ isDarkMode }) {
 	return (
-		<div
-			className="first-letter: bg-cover bg-center h-screen text-black flex items-center justify-center"
-			style={{ backgroundImage: "url('path-to-your-image.jpg')" }}
-		>
+		<div className="first-letter: bg-cover bg-center h-screen text-black flex items-center justify-center">
 			<div className="text-center px-4">
 				<h1
 					className={`text-4xl md:text-6xl font-bold mb-4 ${

@@ -6,24 +6,24 @@ function ProjectsEng({ isDarkMode }) {
 			title: 'Rick and Morty',
 			description:
 				'The project involved creating a website for the Rick and Morty series using its API, allowing users to filter and view detailed information about the characters, locations, and episodes of the series.',
-			imageUrl: './public/rick-and-morty-app.png',
-			link: '#',
+			imageUrl: '/rick-and-morty-app.png',
+			link: 'https://rick-and-morty-app-web-blond.vercel.app',
 			github: 'https://github.com/your-github/rick-and-morty',
 		},
 		{
 			title: 'Pokedex App',
 			description:
 				'The project involved creating a website using the Pokédex API, allowing users to search for and view detailed information about Pokémon.',
-			imageUrl: './public/pokedex-app.png',
-			link: '#',
+			imageUrl: 'pokedex-app.png',
+			link: 'https://pokedex-app-two-rho.vercel.app',
 			github: 'https://github.com/your-github/pokedex-app',
 		},
 		{
 			title: 'Booking App',
 			description:
 				'The project involved building a website that uses a hotel booking API, allowing users to easily search for and book accommodations.',
-			imageUrl: './public/booking-app.png',
-			link: '#',
+			imageUrl: '/booking-app.png',
+			link: 'https://booking-app-henry-dev.vercel.app',
 			github: 'https://github.com/your-github/booking-app',
 		},
 	];
