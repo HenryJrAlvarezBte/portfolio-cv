@@ -8,7 +8,7 @@ function Projects({ isDarkMode }) {
 				'El proyecto consistió en crear una página web para la serie Rick and Morty utilizando su API, permitiendo a los usuarios filtrar y visualizar información detallada sobre los personajes, ubicaciones y episodios de la serie.',
 			imageUrl: '/rick-and-morty-app.png',
 			link: 'https://rick-and-morty-app-web-blond.vercel.app',
-			github: 'https://github.com/tu-github/rick-and-morty',
+			github: 'https://github.com/HenryJrAlvarezBte/rick-and-morty-app-web',
 		},
 		{
 			title: 'Pokedex App',
@@ -16,7 +16,7 @@ function Projects({ isDarkMode }) {
 				'El proyecto consistió en crear una página web utilizando la API de Pokédex, permitiendo a los usuarios buscar y visualizar información detallada sobre los Pokémon.',
 			imageUrl: '/pokedex-app.png',
 			link: 'https://pokedex-app-two-rho.vercel.app',
-			github: 'https://github.com/tu-github/pokedex-app',
+			github: 'https://github.com/HenryJrAlvarezBte/pokedex-app',
 		},
 		{
 			title: 'Booking App',
@@ -24,7 +24,7 @@ function Projects({ isDarkMode }) {
 				'El proyecto consistió en construir una página web que utiliza una API de reservas de hoteles, permitiendo a los usuarios buscar y reservar alojamiento fácilmente.',
 			imageUrl: '/booking-app.png',
 			link: 'https://booking-app-henry-dev.vercel.app',
-			github: 'https://github.com/tu-github/booking-app',
+			github: 'https://github.com/HenryJrAlvarezBte/booking-app',
 		},
 	];
 
