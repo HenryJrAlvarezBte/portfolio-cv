@@ -29,7 +29,7 @@ function HeroEng({ isDarkMode }) {
 					Skills
 				</a>
 				<a
-					href="ruta/a/tu-cv.pdf"
+					href="/public/henryalvarez.pdf"
 					download
 					className="bg-green-500 m-10 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
 				>
