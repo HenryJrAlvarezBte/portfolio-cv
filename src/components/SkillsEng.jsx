@@ -2,12 +2,21 @@ import React from 'react';
 
 function SkillsEng({ isDarkMode }) {
 	const skills = [
+<<<<<<< HEAD
 		{ name: 'JavaScript', level: 'Advanced' },
 		{ name: 'React', level: 'Advanced' },
 		{ name: 'HTML', level: 'Advanced' },
 		{ name: 'CSS', level: 'Advanced' },
 		{ name: 'Node.js', level: 'Intermediate' },
 		{ name: 'Java', level: 'Basic' },
+=======
+		{ name: 'JavaScript' },
+		{ name: 'React' },
+		{ name: 'HTML' },
+		{ name: 'CSS' },
+		{ name: 'Node.js' },
+		{ name: 'TypeScript' },
+>>>>>>> 8ae895e (update/info of hero and skills)
 	];
 
 	return (

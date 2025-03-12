@@ -9,8 +9,13 @@ function Footer({ isDarkMode }) {
 		>
 			<div className="container mx-auto text-center">
 				<p>
+<<<<<<< HEAD
 					&copy; {new Date().getFullYear()} Henry Alvarez Portfolio. All rights
 					reserved.
+=======
+					&copy; {new Date().getFullYear()} Henry Alvarez Portfolio. Todos los
+					derechos reservados.
+>>>>>>> 8ae895e (update/info of hero and skills)
 				</p>
 			</div>
 		</footer>

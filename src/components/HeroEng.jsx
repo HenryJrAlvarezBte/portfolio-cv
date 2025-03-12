@@ -16,11 +16,20 @@ function HeroEng({ isDarkMode }) {
 						isDarkMode ? 'text-white' : 'text-black'
 					}`}
 				>
+<<<<<<< HEAD
 					As a junior Front End web developer specializing in React, I enjoy
 					creating intuitive and dynamic user interfaces. I have experience
 					developing reusable components and managing application state using
 					React. I love transforming designs into interactive user experiences
 					and am always eager to learn and adopt new technologies.
+=======
+					I am a Junior Full Stack Web Developer with 2 years of experience
+					working on various projects using TypeScript and Node.js. Specialized
+					in React, I enjoy creating intuitive and dynamic interfaces,
+					developing reusable components, and managing application state. I am
+					passionate about transforming designs into interactive experiences and
+					always eager to learn new technologies.
+>>>>>>> 8ae895e (update/info of hero and skills)
 				</p>
 				<a
 					href="#about"
