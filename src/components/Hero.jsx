@@ -16,21 +16,12 @@ function Hero({ isDarkMode }) {
 						isDarkMode ? 'text-white' : 'text-black'
 					}`}
 				>
-<<<<<<< HEAD
-					Como desarrollador web Front End junior especializado en React de
-					Argentina, disfruto creando interfaces de usuario intuitivas y
-					dinámicas. Tengo experiencia en desarrollar componentes reutilizables
-					y gestionar el estado de las aplicaciones usando React. Me encanta
-					transformar diseños en experiencias de usuario interactivas y siempre
-					estoy ansioso por aprender y adoptar nuevas tecnologías.
-=======
 					Soy desarrollador web Full Stack junior con 2 años de experiencia en
 					todo tipo de proyectos usando TypeScript y Node.js. Especializado en
 					React, disfruto creando interfaces intuitivas y dinámicas,
 					desarrollando componentes reutilizables y gestionando el estado de las
 					aplicaciones. Me apasiona transformar diseños en experiencias
 					interactivas y siempre estoy abierto a aprender nuevas tecnologías.
->>>>>>> 8ae895e (update/info of hero and skills)
 				</p>
 				<a
 					href="#about"
