@@ -17,6 +17,8 @@ import FooterEng from './components/FooterEng';
 import Bubbles from './components/Bubbles';
 import './App.css';
 import SidebarTheme from './components/SidebarTheme';
+import Certificates from './components/Certificates';
+import CertificatesEng from './components/CertificatesEng';
 
 function App() {
 	const { isDarkMode, toggleTheme } = useTheme();
@@ -71,6 +73,11 @@ function App() {
 				<ProjectsEng isDarkMode={isDarkMode} />
 			) : (
 				<Projects isDarkMode={isDarkMode} />
+			)}
+			{isEnglish ? (
+				<CertificatesEng isDarkMode={isDarkMode} />
+			) : (
+				<Certificates isDarkMode={isDarkMode} />
 			)}
 			{isEnglish ? (
 				<ContactEng isDarkMode={isDarkMode} />
