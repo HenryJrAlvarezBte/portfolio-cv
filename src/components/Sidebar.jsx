@@ -6,7 +6,7 @@ const Sidebar = () => {
 	return (
 		<div className="fixed top-24 left-0 flex flex-col space-y-4 z-10">
 			<a
-				href="https://www.linkedin.com/in/henry-junior-alvarez-bustamante-783621123/"
+				href="https://www.linkedin.com/in/henry-alvarez-bustamante/"
 				className="sidebar-icon"
 			>
 				<SiLinkedin size="28" />

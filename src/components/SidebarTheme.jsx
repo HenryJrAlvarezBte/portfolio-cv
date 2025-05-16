@@ -8,16 +8,22 @@ const SidebarTheme = ({ isDarkMode }) => {
 			<div
 				className={`flex flex-col space-y-4 ${isDarkMode ? 'dark' : 'light'}`}
 			>
-				<a href="https://www.linkedin.com" className="sidebar-icon">
+				<a
+					href="https://www.linkedin.com/in/henry-alvarez-bustamante/"
+					className="sidebar-icon"
+				>
 					<SiLinkedin size="28" />
 				</a>
-				<a href="https://www.github.com" className="sidebar-icon">
+				<a href="https://github.com/HenryJrAlvarezBte" className="sidebar-icon">
 					<FaGithub size="28" />
 				</a>
-				<a href="mailto:your-email@example.com" className="sidebar-icon">
+				<a
+					href="mailto:henry.alvarez.bustamante@gmail.com"
+					className="sidebar-icon"
+				>
 					<FaEnvelope size="28" />
 				</a>
-				<a href="https://wa.me/your-number" className="sidebar-icon">
+				<a href="https://wa.me/5491137656318" className="sidebar-icon">
 					<FaWhatsapp size="28" />
 				</a>
 			</div>
