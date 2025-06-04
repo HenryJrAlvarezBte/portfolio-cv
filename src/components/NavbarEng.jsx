@@ -22,7 +22,7 @@ function NavbarEng({ setIsEnglish, toggleTheme, isDarkMode }) {
 						isDarkMode ? 'text-white' : 'text-black'
 					} text-2xl font-bold`}
 				>
-					Dev. Henry Junior Alvarez Bustamante
+					Dev. Henry Alvarez
 				</a>
 				<div className="md:hidden flex items-center">
 					<button
